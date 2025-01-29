@@ -1,1 +1,1 @@
-This is the project in class in exploratory data analtsis (EDA) and unsupervised marchine learning. For the full slide, please go to the link provided on image file. 
+This is the project in class in exploratory data analtsis (EDA) and unsupervised marchine learning. For the full slide, please go to the link provided on image file or go through with this link: https://drive.google.com/file/d/1CeP1qkzXcEOnru5yFGfywwZfBpC_RZ4-/view?usp=sharing 
